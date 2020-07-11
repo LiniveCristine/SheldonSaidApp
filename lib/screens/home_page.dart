@@ -20,16 +20,17 @@ class HomePage extends StatelessWidget {
           child: Column(
             children: <Widget>[
               Container(
-                margin: EdgeInsets.all(25),
-                width: 150,
-                color: Colors.amber,
-                child: Image.asset('assets/images/atomo.png'),
+                margin: EdgeInsets.only(top: 20, bottom: 15),
+                child: Image.asset('assets/images/bbt.png'),
               ),
               Padding(
-                padding: const EdgeInsets.only(top: 10, bottom: 65),
+                padding: const EdgeInsets.only(top: 10, bottom: 55),
                 child: Text(
                   '"Desculpe, café está fora de questão. Quando eu me mudei para a Califórnia, prometi a minha mãe que eu não começaria a usar drogas."',
-                  style: TextStyle(fontSize: 18, fontStyle: FontStyle.italic),
+                  style: TextStyle(
+                    fontSize: 20,
+                    fontStyle: FontStyle.italic,
+                  ),
                 ),
               ),
               Container(
