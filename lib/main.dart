@@ -9,6 +9,10 @@ class SheldondSaid extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Sheldon Disse',
+      theme: ThemeData(
+        primaryColor: Color.fromRGBO(214, 34, 11, 1),
+        accentColor: Color.fromRGBO(38, 74, 106, 1),
+      ),
       home: HomePage(),
     );
   }
