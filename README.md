@@ -4,10 +4,10 @@ Aplicação feita em Flutter para implementar meus estudos.
 
 ## Screenshots
 
-<img src="assets/images/ss1.PNG">
-<img src="assets/images/ss2.PNG">
-<img src="assets/images/ss3.PNG">
-<img src="assets/images/giphy.gif">
+<img src="assets/images/giphy.gif"> <img src="assets/images/ss1.PNG" width=270>
+
+<img src="assets/images/ss2.PNG" width=270> <img src="assets/images/ss3.PNG" width=270>
+
 
 
 ## Getting Started
