@@ -10,7 +10,6 @@ Aplicação feita em Flutter para implementar meus estudos.
 <img src="assets/images/giphy.gif">
 
 
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
