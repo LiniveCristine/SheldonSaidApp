@@ -1,3 +1,6 @@
+
+lib/screens/off.dart
+
 # Miscellaneous
 *.class
 *.log
