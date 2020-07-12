@@ -7,7 +7,7 @@ Aplicação feita em Flutter para implementar meus estudos.
 <img src="assets/images/ss1.PNG">
 <img src="assets/images/ss2.PNG">
 <img src="assets/images/ss3.PNG">
-<img src="https://giphy.com/gifs/iGX5jFfDX4Ka03fTAb/html5">
+<img src="https://giphy.com/gifs/iGX5jFfDX4Ka03fTAb">
 
 
 
