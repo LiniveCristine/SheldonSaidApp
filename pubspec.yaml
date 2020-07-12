@@ -48,8 +48,31 @@ flutter:
   assets:
     - assets/images/atomo.png
     - assets/images/bazinga.png
-    - assets/images/tbbt2.png
     - assets/images/bbt.png
+    - assets/images/amizade.png
+    - assets/images/anjo.png
+    - assets/images/banheiro.png
+    - assets/images/bluetooth.png
+    - assets/images/cerebro.png
+    - assets/images/cinema.png
+    - assets/images/coracao.png
+    - assets/images/cuidados-de-saude-e-medicos.png
+    - assets/images/einstein.png
+    - assets/images/exame.png
+    - assets/images/garfo.png
+    - assets/images/hardware.png
+    - assets/images/ideia.png
+    - assets/images/interruptor.png
+    - assets/images/manutencao.png
+    - assets/images/natacao.png
+    - assets/images/no-coffee-cups.png
+    - assets/images/onibus.png
+    - assets/images/pare.png
+    - assets/images/pergunta.png
+    - assets/images/procurar.png
+    - assets/images/sofa.png
+    - assets/images/tonto.png
+    - assets/images/trovao.png
     
   #   - images/a_dot_ham.jpeg
 
