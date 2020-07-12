@@ -1,6 +1,12 @@
-# Sheldon Said
+# Sheldon Said :speech_balloon:
 
 Aplicação feita em Flutter para implementar meus estudos.
+
+## Screenshots
+
+<img src="C:\Users\acer\Pictures/ss1">
+
+<iframe src="https://giphy.com/embed/iGX5jFfDX4Ka03fTAb" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sheldonsaid-iGX5jFfDX4Ka03fTAb">via GIPHY</a></p>
 
 ## Getting Started
 

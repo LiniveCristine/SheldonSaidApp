@@ -1,6 +1,6 @@
 List<Map<String, String>> quotesList = [
   {
-    'quote': 'Clique para conhecer toda a sabedoria do Doutor Sheldon Cooper',
+    'quote': 'Clique para conhecer toda sabedoria do Doutor Sheldon Cooper',
     'image': 'assets/images/ideia.png',
   },
   {
